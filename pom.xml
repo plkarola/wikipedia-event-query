@@ -6,6 +6,10 @@
 	<artifactId>wikipedia-event-query</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0</version>
+	<organization>
+		<name>UD</name>
+	</organization>
+	<inceptionYear>2017</inceptionYear>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
