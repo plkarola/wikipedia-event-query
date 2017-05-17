@@ -25,6 +25,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
  * #L%
  */
+
 import java.time.LocalDate;
 
 import org.apache.commons.lang3.builder.EqualsBuilder;
